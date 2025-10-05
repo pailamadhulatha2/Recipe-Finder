@@ -34,10 +34,6 @@ A simple and responsive web application that helps users find recipes based on i
 
 ---
 
-## 🌐 Live Demo
-
-[Click here to view the project](https://your-username.github.io/Recipe-Finder)  
-
 
 ---
 
